@@ -8,15 +8,15 @@ Este segundo ejemplo consta de dos archivos: <b>CompareValidatorSample2.aspx</b>
 </p>
 <div><b>Fig 1 El ejemplo muestra la comparación de un valor contra un tipo específico de dato y la comparación del valor de un control contra el valor de otro control.</b></div><br>
 <div>
-<IMG src="picture_library/compareValidator/fig4.png">
+<IMG src="images/fig4.png">
 </div><br>
 <div><b>Fig 2 Comparando el valor de un control con un tipo específico de dato .NET.</b></div><br>
 <div>
-<IMG src="picture_library/compareValidator/fig5.png">
+<IMG src="images/fig5.png">
 </div><br>
 <div><b>Fig 3 Comparando el valor de un control contra el valor de otro control.</b></div><br>
 <div>
-<IMG src="picture_library/compareValidator/fig6.png">
+<IMG src="images/fig6.png">
 </div><br>
 <p align="justify">Algunas propiedades esenciales del control <b>CompareValidator.</b>
 <ul>
